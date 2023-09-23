@@ -3,7 +3,7 @@ WaterSCNet is a deep learning model for segmentation and connectivity reconstruc
 
 WaterSCNet consists of two cascaded subnetworks called WaterSCNet-segmentation (WaterSCNet-s) and WaterSCNet-connection (WaterSCNet-c).
 
-You can use the following command to train WaterSCNet-s and WaterSCNet-v.
+You can use the following command to train WaterSCNet-s and WaterSCNet-v:
 
     python train_waterscnet.py
 
