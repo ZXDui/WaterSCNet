@@ -1,3 +1,5 @@
+# Define WaterSCNet model, including WaterSCNet-s and WaterSCNet-c.
+
 from keras.layers import *
 from keras.models import *
 from keras import layers
