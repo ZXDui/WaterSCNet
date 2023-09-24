@@ -1,4 +1,4 @@
-# Obtain lists of partitioned training, testing, and validation sets.
+# Obtain lists of training, testing, and validation sets for loading data during model training and evaluation.
 
 import numpy as np
 import os
