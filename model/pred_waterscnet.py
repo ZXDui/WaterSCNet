@@ -1,3 +1,5 @@
+# Using trained models for river segmentation and connectivity reconstruction.
+
 import os
 import cv2
 from spectral import *
