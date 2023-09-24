@@ -1,3 +1,5 @@
+# Train WaterSCNet, including WaterSCNet-s and WaterSCNet-v.
+
 import os
 import sys
 import time
