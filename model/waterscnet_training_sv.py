@@ -1,3 +1,5 @@
+# Experimental configuration for model training, including loading of remote sensing data and label images.
+
 import os
 import cv2
 import keras
