@@ -1,4 +1,5 @@
-# Used to cut the original Sentinel-2 remote sensing data and corresponding segmentation labels and connectivity labels.
+# 1. Used to cut the original Sentinel-2 remote sensing data and corresponding segmentation labels and connectivity labels.
+# 2. Filter the cut sample images to remove samples with poor representativeness.
 
 import os
 import numpy as np
