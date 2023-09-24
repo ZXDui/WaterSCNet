@@ -1,3 +1,5 @@
+# Used to format convert Sentinel-2 images downloaded from Google Earth Engine (from Tiff to HDR).
+
 import csv
 import math
 from sklearn import preprocessing
