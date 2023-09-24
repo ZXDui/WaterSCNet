@@ -1,3 +1,5 @@
+# Used to cut the original Sentinel-2 remote sensing data and corresponding segmentation labels and connectivity labels.
+
 import os
 import numpy as np
 from spectral import *
