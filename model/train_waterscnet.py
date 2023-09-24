@@ -1,4 +1,4 @@
-# Train WaterSCNet, including WaterSCNet-s and WaterSCNet-v.
+# Train WaterSCNet, this code can train both WaterSCNet-s and WaterSCNet-v simultaneously.
 
 import os
 import sys
