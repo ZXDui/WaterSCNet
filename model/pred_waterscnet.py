@@ -1,4 +1,4 @@
-# Using trained models for river segmentation and connectivity reconstruction.
+# Using trained WaterSCNet for river segmentation and connectivity reconstruction.
 
 import os
 import cv2
