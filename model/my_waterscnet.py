@@ -11,6 +11,7 @@ np.random.seed(42)
 python_random.seed(42)
 
 
+# Multi-scale pooling (MSP) block
 def three_ppm(input):
     x = input
     shapex = K.int_shape(x)[3]
