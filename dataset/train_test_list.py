@@ -1,3 +1,5 @@
+# Obtain lists of partitioned training, testing, and validation sets.
+
 import numpy as np
 import os
 from glob import *
