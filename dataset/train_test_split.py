@@ -1,3 +1,5 @@
+# Divide the experimental dataset into training, testing, and validation sets.
+
 import cv2
 import os
 from spectral import *
