@@ -1,3 +1,4 @@
+# Convert the coordinates of Sentinel-2 images to shapefiles.
 
 lat = []
 lon = []
